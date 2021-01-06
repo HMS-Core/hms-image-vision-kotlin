@@ -42,7 +42,7 @@ The Image Vision service :
 
 Main Activity
 
- <img src="./Main.PNG" width = 30% height = 30%>
+ <img src=https://github.com/HMS-Core/hms-image-vision-kotlin/blob/master/Main.png width = 30% height = 30%>
 
 Filter
 
