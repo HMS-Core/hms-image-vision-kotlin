@@ -1,5 +1,4 @@
-## image-vision-sample
-
+## HMS ImageKit Sample for Kotlin
 
 ## Table of Contents
 
@@ -47,23 +46,23 @@ Main Activity
 
 Filter
 
-<img src="./Filter.PNG" width = 30% height = 30%>
+<img src=https://github.com/HMS-Core/hms-image-vision-kotlin/blob/master/Filter.gif width = 30% height = 30%>
 
 Layout
 
-<img src="./Layout.PNG" width = 30% height = 30%>
+<img src=https://github.com/HMS-Core/hms-image-vision-kotlin/blob/master/Layout.gif width = 30% height = 30%>
 
 ThemeTag
 
-<img src="./ThemeTag.PNG" width = 30% height = 30%>
+<img src=https://github.com/HMS-Core/hms-image-vision-kotlin/blob/master/ThemeTag.gif width = 30% height = 30%>
 
 Sticker
 
-<img src="./Sticker.PNG" width = 30% height = 30%>
+<img src=https://github.com/HMS-Core/hms-image-vision-kotlin/blob/master/Sticker.gif width = 30% height = 30%>
 
 Crop
 
-<img src="./Crop.PNG" width = 30% height = 30%>
+<img src=https://github.com/HMS-Core/hms-image-vision-kotlin/blob/master/Crop.gif width = 30% height = 30%>
 
 ## Question or issues
 If you want to evaluate more about HMS Core, [r/HMSCore on Reddit](https://www.reddit.com/r/HuaweiDevelopers/) is for you to keep up with latest news about HMS Core, and to exchange insights with other developers.
@@ -74,6 +73,5 @@ If you have questions about how to use HMS samples, try the following options:
 - [Huawei Developer Forum](https://forums.developer.huawei.com/forumPortal/en/home?fid=0101187876626530001) HMS Core Module is great for general questions, or seeking recommendations and opinions.
 
 ##  License
-
 ImageVisionSample is licensed under the [Apache License, version 2.0](http://www.apache.org/licenses/LICENSE-2.0).
 
