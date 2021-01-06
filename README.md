@@ -1,4 +1,4 @@
-## HMS ImageKit Sample for Kotlin
+## HMS ImageKit Vision Sample for Kotlin
 
 ## Table of Contents
 
